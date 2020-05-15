@@ -6,8 +6,8 @@ The App allows to evaluate if a person is at an appropriate weight based on thei
 
 ## How To Use
 
-*Enter your weight and height
-*Select "Calculate"
+* Enter your weight and height
+* Select "Calculate"
 
 
 ## Screenshots

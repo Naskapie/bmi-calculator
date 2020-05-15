@@ -1,4 +1,6 @@
 # Body Mass Index Calculator
+[![Made-with-Flutter](https://img.shields.io/badge/Made%20with-Flutter-5fc9f8.svg)](https://flutter.dev/)
+[![Made-with-Dart](https://img.shields.io/badge/Made%20with-Dart-13589c.svg)](https://dart.dev/)
 
 The App allows to evaluate if a person is at an appropriate weight based on their age, height and weight using [Flutter](https://flutter.dev/).
 

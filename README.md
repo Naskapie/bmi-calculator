@@ -4,8 +4,10 @@
 
 The App allows to evaluate if a person is at an appropriate weight based on their age, height and weight using [Flutter](https://flutter.dev/).
 
-- [Enter your weight and height.]
-- [Select "Calculate"]
+## How To Use
+
+*Enter your weight and height
+*Select "Calculate"
 
 
 ## Screenshots

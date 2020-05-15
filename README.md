@@ -1,6 +1,6 @@
 # Body Mass Index Calculator
 
-The App build with Flutter allows to evaluate if a person is at an appropriate weight based on their age, height and weight.
+The App allows to evaluate if a person is at an appropriate weight based on their age, height and weight using [Flutter](https://flutter.dev/).
 
 - [Enter your weight and height.]
 - [Select "Calculate"]
@@ -8,8 +8,13 @@ The App build with Flutter allows to evaluate if a person is at an appropriate w
 
 ## Screenshots
 
-<!-- <img src="./media/animated.gif" width="200" /> -->
-<img src="./images/bmi_calc.gif" width="200" /><img src="./images/screenshot_1.png" width="200" /><img src="./images/screenshot_2.png" width="200" />
+<table>
+    <tr>
+        <td><img src="./images/bmi_calc.gif" width="200" /></td>     
+        <td><img src="./images/screenshot_1.png" width="200" /></td> 
+        <td><img src="./images/screenshot_2.png" width="200" /></td> 
+    </tr>
+</table>
 
 ## Credits
 
